@@ -1,7 +1,3 @@
-# tatudobem.github.io
-:construction: um projeto para ajudar pessoas a encontrarem terapia gratuita :construction:
-
-##
 
 # :rotating_light: Atenção! :rotating_light:
 
